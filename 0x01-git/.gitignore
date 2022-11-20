@@ -1,0 +1,6 @@
+A blank line
+A line starting with #
+An optional prefix "!" which negates a pattern
+The slash is used as directory separator
+Trailing spaces are ignored
+
